@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin Coroutines Example</string>
+    <string name="update_counter">Update Counter</string>
+    <string name="execute_task">Execute Task</string>
+    <string name="_0">0</string>
+    <string name="welcome">Welcome to Another Activity</string>
+</resources>
